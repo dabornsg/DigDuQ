@@ -1,0 +1,6 @@
+setup.py
+gym_digdug.egg-info/PKG-INFO
+gym_digdug.egg-info/SOURCES.txt
+gym_digdug.egg-info/dependency_links.txt
+gym_digdug.egg-info/requires.txt
+gym_digdug.egg-info/top_level.txt

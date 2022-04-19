@@ -1,0 +1,1 @@
+from gym_digdug.envs.digdug_env import DigdugEnv
