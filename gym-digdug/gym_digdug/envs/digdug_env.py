@@ -108,7 +108,7 @@ class DigdugEnv(gym.Env):
             reward = data[2] - self._score
         else:
             if data[1] < self._enemies:
-                reward = data[1] - self._enemies
+                reward = self._enemies - data[1] 
         self._score = data[2]
         self._enemies = data[1]
         done = False
